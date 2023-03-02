@@ -1,11 +1,12 @@
-<h2 align="left">Hi there! 👋 My name is Kuldeep Singh, and hailing from India.</h2>
+<h1 align="left">Hi there! 👋 My name is Kuldeep Singh, and hailing from India.</h1>
 
 ###
-###
-
-<div style="display:flex;">
+<div style="display:flex; background-color: #F5F5F5; padding: 20px; border-radius: 20px;">
   <img align="right" height="170" style="border-radius: 40px" src="https://media1.giphy.com/media/IpeYSEZshTefe/giphy.gif?cid=ecf05e472umla0oj3egq8tbeoftbu7h8ruxur5w4xpn0ugyc&rid=giphy.gif&ct=g" />
-  <p style="text-align:left;">👨🏻‍💻 About Me<br>🔭 I’m currently learning Full Stack Web Development with a focus on Golang.<br>🤔 Passionate about exploring new technologies and developing software solutions with quick hacks and efficient coding.<br>🎓 Studying Finance, computer programming and related technologies to sharpen my skills.<br>💼 Experienced in developing robust and scalable backend web applications.<br>🌱 Enthusiast in the stock market, design, and creating beautiful UI/UX experiences.<br>✍️ In my free time, I'm interested in fiction stories and exploring imaginative worlds to spark my creativity for designing visually stunning web applications.<br>☕ I believe that a perfect cup of coffee can be the ultimate stress buster and a source of inspiration to fuel my passion for software development.</p>
+  <div style="text-align:left; font-size:16; margin-right: 20px;">
+    <h2 style="font-size: 28px; margin-bottom: 10px;">👨🏻‍💻 About Me</h2>
+    <p style="line-height: 1.5;">🔭 I’m currently learning Full Stack Web Development with a focus on Golang.<br>🤔 Passionate about exploring new technologies and developing software solutions with quick hacks and efficient coding.<br>🎓 Studying Finance, computer programming and related technologies to sharpen my skills.<br>💼 Experienced in developing robust and scalable backend web applications.<br>🌱 Enthusiast in the stock market, design, and creating beautiful UI/UX experiences.<br>✍️ In my free time, I'm interested in fiction stories and exploring imaginative worlds to spark my creativity for designing visually stunning web applications.<br>☕ I believe that a perfect cup of coffee can be the ultimate stress buster and a source of inspiration to fuel my passion for software development.</p>
+  </div>
 </div>
 
 ###
