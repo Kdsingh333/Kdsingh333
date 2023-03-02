@@ -1,10 +1,11 @@
-<h3 align="left">Hi there! 👋 My name is Kuldeep Singh, and I'm a skilled Web Developer and Go Developer hailing from India.</h3>
+<h2 align="left">Hi there! 👋 My name is Kuldeep Singh, and hailing from India.</h2>
 
 ###
+###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Kdsingh333" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Kdsingh333" height="150" alt="languages graph"  />
+<div style="display:flex;">
+  <img align="right" height="170" style="border-radius: 40px" src="https://media1.giphy.com/media/IpeYSEZshTefe/giphy.gif?cid=ecf05e472umla0oj3egq8tbeoftbu7h8ruxur5w4xpn0ugyc&rid=giphy.gif&ct=g" />
+  <p style="text-align:left;">👨🏻‍💻 About Me<br>🔭 I’m currently learning Full Stack Web Development with a focus on Golang.<br>🤔 Passionate about exploring new technologies and developing software solutions with quick hacks and efficient coding.<br>🎓 Studying Finance, computer programming and related technologies to sharpen my skills.<br>💼 Experienced in developing robust and scalable backend web applications.<br>🌱 Enthusiast in the stock market, design, and creating beautiful UI/UX experiences.<br>✍️ In my free time, I'm interested in fiction stories and exploring imaginative worlds to spark my creativity for designing visually stunning web applications.<br>☕ I believe that a perfect cup of coffee can be the ultimate stress buster and a source of inspiration to fuel my passion for software development.</p>
 </div>
 
 ###
@@ -25,10 +26,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.discordapp.net/attachments/1080750771903148062/1080779161272078336/3648fc9c-d70e-41b6-9b8f-e10342ec7e9d.jpg?width=555&height=555"  />
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/kd_singh_333/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -42,6 +39,14 @@
   <a href="https://twitter.com/kuldeep_S3" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
+</div>
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=jolly&locale=en&hide_border=false&username=Kdsingh333" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Kdsingh333" height="150" alt="languages graph"  />
 </div>
 
 ###
