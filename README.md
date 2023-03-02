@@ -13,9 +13,9 @@
   <img align="right" height="170" style="border-radius: 40px padding-top:30px" src="https://media1.giphy.com/media/IpeYSEZshTefe/giphy.gif?cid=ecf05e472umla0oj3egq8tbeoftbu7h8ruxur5w4xpn0ugyc&rid=giphy.gif&ct=g" />
   <div style="text-align:left; font-size:16; margin-right: 20px;">
     <h2 style="font-size: 28px; margin-bottom: 10px;">👨🏻‍💻 About Me</h2>
-    <h4 style="line-height: 1.5;">🔭 I’m currently learning Full Stack Web Development with a focus on Golang.<br>
+    <h4 style="line-height: 1.5;">🔭 Learning Full Stack Web Development with Golang.<br>
       <br>
-      🤔 Passionate about exploring new technologies and developing software solutions with quick hacks and efficient coding.<br>
+      🤔 Passionate about exploring new technologies and developing efficient solutions.<br>
       <br>
       🎓 Studying Finance, computer programming and related technologies to sharpen my skills.<br>
       <br>
@@ -23,7 +23,7 @@
       <br>
       🌱 Enthusiast in the stock market, design, and creating beautiful UI/UX experiences.<br>
       <br>
-      ✍️ In my free time, I'm interested in fiction stories and exploring imaginative worlds to spark my creativity for designing visually stunning web applications.<br>
+      ✍️ Enjoy reading fiction to inspire web design creativity.<br>
       </h4>
   </div>
 </div>
