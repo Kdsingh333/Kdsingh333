@@ -1,16 +1,38 @@
 <h1 align="left">Hi there! 👋 My name is Kuldeep Singh, and hailing from India.</h1>
 
-###
-<div style="display:flex; background-color: #F5F5F5; padding: 20px; border-radius: 20px;">
-  <img align="right" height="170" style="border-radius: 40px" src="https://media1.giphy.com/media/IpeYSEZshTefe/giphy.gif?cid=ecf05e472umla0oj3egq8tbeoftbu7h8ruxur5w4xpn0ugyc&rid=giphy.gif&ct=g" />
-  <div style="text-align:left; font-size:16; margin-right: 20px;">
-    <h2 style="font-size: 28px; margin-bottom: 10px;">👨🏻‍💻 About Me</h2>
-    <p style="line-height: 1.5;">🔭 I’m currently learning Full Stack Web Development with a focus on Golang.<br>🤔 Passionate about exploring new technologies and developing software solutions with quick hacks and efficient coding.<br>🎓 Studying Finance, computer programming and related technologies to sharpen my skills.<br>💼 Experienced in developing robust and scalable backend web applications.<br>🌱 Enthusiast in the stock market, design, and creating beautiful UI/UX experiences.<br>✍️ In my free time, I'm interested in fiction stories and exploring imaginative worlds to spark my creativity for designing visually stunning web applications.<br>☕ I believe that a perfect cup of coffee can be the ultimate stress buster and a source of inspiration to fuel my passion for software development.</p>
-  </div>
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kdsingh333.Kdsingh333&"  />
 </div>
 
 ###
 
+###
+<div style="display:flex; background-color: #F5F5F5; padding: 20px; border-radius: 20px;">
+  
+  <img align="right" height="170" style="border-radius: 40px padding-top:30px" src="https://media1.giphy.com/media/IpeYSEZshTefe/giphy.gif?cid=ecf05e472umla0oj3egq8tbeoftbu7h8ruxur5w4xpn0ugyc&rid=giphy.gif&ct=g" />
+  <div style="text-align:left; font-size:16; margin-right: 20px;">
+    <h2 style="font-size: 28px; margin-bottom: 10px;">👨🏻‍💻 About Me</h2>
+    <h4 style="line-height: 1.5;">🔭 I’m currently learning Full Stack Web Development with a focus on Golang.<br>
+      <br>
+      🤔 Passionate about exploring new technologies and developing software solutions with quick hacks and efficient coding.<br>
+      <br>
+      🎓 Studying Finance, computer programming and related technologies to sharpen my skills.<br>
+      <br>
+      💼 Experienced in developing robust and scalable backend web applications.<br>
+      <br>
+      🌱 Enthusiast in the stock market, design, and creating beautiful UI/UX experiences.<br>
+      <br>
+      ✍️ In my free time, I'm interested in fiction stories and exploring imaginative worlds to spark my creativity for designing visually stunning web applications.<br>
+      </h4>
+  </div>
+</div>
+
+###
+<br>
+
+<h2 style="font-size: 28px; margin-bottom: 10px;">💻 🛠: Tech stack</h2>
+<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
@@ -26,6 +48,9 @@
 </div>
 
 ###
+<br>
+<h2 style="font-size: 28px; margin-bottom: 10px;">💻📌Connect with me:</h2>
+<br>
 
 <div align="left">
   <a href="https://www.instagram.com/kd_singh_333/" target="_blank">
@@ -43,11 +68,16 @@
 </div>
 
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=jolly&locale=en&hide_border=false&username=Kdsingh333" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Kdsingh333" height="150" alt="languages graph"  />
-</div>
 
 ###
+<br>
+<h2 style="font-size: 28px; margin-bottom: 10px;">📈📉 Stats :</h2>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kdsingh333&show_icons=true&locale=en" alt="kdsingh333" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdsingh333&show_icons=true&locale=en&layout=compact" alt="kdsingh333" /></p>
+
+
+<hr><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kdsingh333&" alt="kdsingh333" /></p>
